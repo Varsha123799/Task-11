@@ -20,7 +20,7 @@ Create an HTML page that includes an image element. Implement an effect where th
    - If curious, also provide a CSS-only solution to achieve the same hover effect.
   
 5. **Upload to GitHub:**
-   - Upload the `index.html` file to the `taskeleven` repository in your GitHub repo.
+   - Upload the `index.html` file to the `tasknine` repository in your GitHub repo.
 
 ## JavaScript Implementation
 
